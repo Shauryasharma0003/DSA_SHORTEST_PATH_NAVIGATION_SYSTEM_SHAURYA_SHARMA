@@ -1,0 +1,16 @@
+# Executables
+*.exe
+*.out
+*.app
+navigation_system
+
+# Build and object files
+*.o
+*.obj
+build/
+bin/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
